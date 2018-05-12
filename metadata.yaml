@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25470'
     url: http://www.gutenberg.org/2009/agents/25470
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22647#A-velha-disciplina--Versos
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2007-09-17'
 gutenberg_type: Text
