@@ -1,0 +1,29 @@
+_repo: A-velha-disciplina--Versos_22647
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumont, Júlio
+    alias: Dumont, Julio
+    gutenberg_agent_id: '25470'
+    url: http://www.gutenberg.org/2009/agents/25470
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22647'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Vasco Salgado
+publication_note: "Lisboa:\r\nImprensa Gomes\r\nRua do Sol ao Rato, 74\r\n1906"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: 'A velha disciplina: Versos'
+url: http://www.gutenberg.org/ebooks/22647
